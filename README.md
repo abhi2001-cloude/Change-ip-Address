@@ -1,2 +1,2 @@
 # Change-ip-Address
- change ip address usiong java 
+ change ip address using java 
