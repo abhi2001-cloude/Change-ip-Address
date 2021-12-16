@@ -7,7 +7,7 @@ public class my_main {
         String ip_address="192.168.100.55";
         /* put ip as you want */
         String subnet_mask="255.255.255.0";
-        String default_gateway="192.168.100.1";
+        String default_gateway="192.168.101.1";
         String dns_1="8.8.8.8";
         String dns_2="8.8.4.4";
         String[] command =
